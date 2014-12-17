@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainMaster.master.cs" Inherits="CyberneticsProtector.MainMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title>Prolific by Free CSS Templates</title>
+		<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	    <style type="text/css">
+            .style1 {
+                text-align: center;
+            }
+        </style>
+	</head>
+	<body>
+    <form id="form1" runat="server">
+		<div id="outer">
+		<div id="wrapper">
+			<div id="menu">
+            <asp:Menu ID="UserMenu" runat="server" Orientation="Horizontal" 
+                                                            Font-Bold="True" ForeColor="White" Height="21px" Width="889px" 
+                                                    RenderingMode="Table">
+                                                            <DynamicMenuItemStyle BackColor="Gray" Font-Bold="True" ForeColor="White" />
+                                                            <Items>
+                                                                <asp:MenuItem Text="|||" Value="|||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Home.aspx">
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="About Us" 
+                                                                    Value="About Us" NavigateUrl="~/frmAboutUs.aspx">
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Contact Us" Value="Contact Us" 
+                                                                    NavigateUrl="~/frmContactUs.aspx">
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Registrtion" Value="Registrtion" 
+                                                                    NavigateUrl="~/frmAgencyRegistration.aspx"></asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Log in" Value="Log in" 
+                                                                    NavigateUrl="~/frmLogin.aspx">
+                                                                    <asp:MenuItem NavigateUrl="~/Defense/frmDefenseHome.aspx" Text="Defense" 
+                                                                        Value="Defense"></asp:MenuItem>
+                                                                    <asp:MenuItem NavigateUrl="~/Agency/frmAgencyHome.aspx" Text="Agency" 
+                                                                        Value="Agency"></asp:MenuItem>
+                                                                    <asp:MenuItem NavigateUrl="~/Agent/frmAgentHome.aspx" Text="Agent" 
+                                                                        Value="Agent"></asp:MenuItem>
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="|||" Value="|||"></asp:MenuItem>
+                                                            </Items>
+                                                        </asp:Menu>
+				<%--<ul>
+					<li class="first"><a href="#">Home</a></li>
+					<li><a href="#">Products</a></li>
+					<li><a href="#">Services</a></li>
+					<li><a href="#">Portfolio</a></li>
+					
+					<li class="last"><a href="#">Contact</a></li>
+				</ul>--%>
+				<br class="clearfix" />
+			</div>
+			<div id="header">
+				<div id="logo">
+					<h1 class="style1"><a href="#">CybernaticsProtector </a></h1>
+				</div>
+			</div>
+			<div id="page">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            .
+            </asp:ContentPlaceHolder>
+				<%--<div id="content">
+				
+				</div>--%>
+				<br class="clearfix" />
+			</div>
+		</div>
+		<div id="footer">
+			&copy; 2012 Untitled | Design by <a href="http://www.freecsstemplates.org/">FCT</a> | Images by <a href="http://fotogrph.com/">Fotogrph</a>
+		</div>
+		</div>
+        </form>
+	</body>
+</html>

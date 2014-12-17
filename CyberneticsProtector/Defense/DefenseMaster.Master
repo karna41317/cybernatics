@@ -1,0 +1,174 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DefenseMaster.master.cs" Inherits="CyberneticsProtector.Defense.DefenseMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            font-size: xx-large;
+            font-weight: bold;
+            font-family: "Bookman Old Style";
+            color: #CCFFFF;
+        }
+        .style4
+        {
+            height: 26px;
+        }
+        .style5
+        {
+            color: #FFFFFF;
+        }
+        </style>
+</head>
+<body style="background-color:#828282">
+    <form id="form1" style="background-color:#828282" runat="server">
+    <asp:ScriptManager ID="ScriptManager2" runat="server">
+                                                </asp:ScriptManager>
+    <center>
+    <table cellspacing="0" cellpadding="0" border="0" style="background-color:#5B7A8C" >
+        <tr>
+            <td valign="top" >
+                <table cellspacing="0" cellpadding="0" width="779" align="center" border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <table cellspacing="0" cellpadding="0" border="0" style="width: 903px;">
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="4" height="64">
+                                                <%--<img title="a" height="64" alt="z" style="background-color="#005b9a":" src="Images/hotelmgmt.jpg"
+                                                    width="779">--%>
+                                                    
+                                            <span class="style1">Cybernatics Protector</span></td>
+                                        </tr>
+                                        
+                                        <tr style="background-color:#5B7A8C">
+                                            <td  colspan="4" height="3" valign="top">
+                                                <table cellspacing="0" cellpadding="0" border="0" style="width: 896px">
+                                                    <tbody>
+                                                        <tr height="3">
+                                                            <td width="1" >
+                                                            </td>
+                                                            <td width="777" >
+                                                            </td>
+                                                            <td width="1">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr style="background-color:#B9A3B7">
+                                            <td  colspan="4" class="style4">
+                                                <asp:Menu ID="UserMenu" runat="server" Orientation="Horizontal" 
+                                                            Font-Bold="True" ForeColor="White" Height="21px" Width="889px" 
+                                                    RenderingMode="Table">
+                                                            <DynamicMenuItemStyle BackColor="Gray" Font-Bold="True" ForeColor="White" />
+                                                            <Items>
+                                                                <asp:MenuItem Text="|||" Value="|||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Home" Value="Home" 
+                                                                    NavigateUrl="~/Defense/frmDefenseHome.aspx">
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Accept" Value="Contact Us" Selectable="False">
+                                                                    <asp:MenuItem NavigateUrl="~/Defense/frmAcceptAgency.aspx" 
+                                                                        Text="Agency Registration" Value="Agency Registration"></asp:MenuItem>
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Add" Value="Add" Selectable="False">
+                                                                    <asp:MenuItem NavigateUrl="~/Defense/frmAddCaseDetails.aspx" 
+                                                                        Text="Case Details" Value="Case Details"></asp:MenuItem>
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="View" 
+                                                                    Value="About Us" Selectable="False">
+                                                                    <asp:MenuItem NavigateUrl="~/Defense/frmViewCaseDetails.aspx" Text="Case Details" 
+                                                                        Value="Case Details"></asp:MenuItem>
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="Assign" Value="Assign" Selectable="False">
+                                                                    <asp:MenuItem NavigateUrl="~/Defense/frmCaseAssignToAgency.aspx" 
+                                                                        Text="Case To Agency" Value="Case To Agency"></asp:MenuItem>
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="||" Value="||"></asp:MenuItem>
+                                                                <asp:MenuItem Text="SignOut" Value="Log in" 
+                                                                    NavigateUrl="~/frmSignOut.aspx">
+                                                                </asp:MenuItem>
+                                                                <asp:MenuItem Text="|||" Value="|||"></asp:MenuItem>
+                                                            </Items>
+                                                        </asp:Menu>
+                                            </td>
+                                        </tr>
+                                       <%-- <tr>
+                                            <td valign="top" bgcolor="#ffffff" colspan="3" height="1">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#0171bf" colspan="4" height="1">
+                                            </td>
+                                        </tr>--%>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr  style="background-color: #C4C4C4">
+            <td align="left" valign="top" style="border: thin groove #000000; width: 898px; height:400px; overflow: auto">
+               
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" >
+                <table cellspacing="0" cellpadding="0" align="center" border="0" 
+                    style="width: 904px">
+                    <tbody>
+                        <tr>
+                            <td style="background-color:#828282">
+                                <table cellspacing="0" cellpadding="0" border="0" style="width: 898px" >
+                                    <tbody>
+                                        <tr>
+                                            <td width="1">
+                                            </td>
+                                            <td width="777">
+                                                <table cellspacing="0" cellpadding="0" width="60%" align="center" border="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                            <td width="1" >
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td >
+                                            </td>
+                                            <td align=center>
+                                               &nbsp;<span class="style5"><strong>© 2012 Copy Rights All Rights Reserved.</strong></span>
+                                                <br/></td>
+                                                <td>
+                                                </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </center>
+    </form>
+</body>
+</html>

@@ -1,0 +1,49 @@
+F:\avs\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+F:\avs\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+F:\avs\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+F:\avs\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+F:\avs\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+F:\avs\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+F:\avs\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+F:\avs\CP\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+F:\avs\CP\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+F:\avs\CP\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+F:\avs\CP\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+F:\avs\CP\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+F:\avs\CP\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+F:\avs\CP\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+E:\CP\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+E:\CP\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+E:\CP\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+E:\CP\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+E:\CP\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+E:\CP\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+E:\CP\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\cyber\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+C:\Users\kalyan kumar.Juluri\Desktop\Balaji--.Net\CyberneticsProtector\BAL\obj\Debug\BAL.pdb
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\bin\Debug\BAL.dll
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\bin\Debug\BAL.pdb
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\bin\Debug\DAL.dll
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\bin\Debug\DAL.pdb
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\obj\Debug\ResolveAssemblyReference.cache
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\obj\Debug\BAL.dll
+D:\2013Projects_New\CyberneticsProtector\CyberneticsProtector\BAL\obj\Debug\BAL.pdb

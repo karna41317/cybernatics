@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberneticsProtector", "CyberneticsProtector\CyberneticsProtector.csproj", "{E0B51D51-FEF4-4A23-9E17-F5EB9D481197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{D048D641-1BA1-4602-AD37-141B434F5B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A612F07E-B529-4DDB-80AD-030B986384C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B51D51-FEF4-4A23-9E17-F5EB9D481197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B51D51-FEF4-4A23-9E17-F5EB9D481197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B51D51-FEF4-4A23-9E17-F5EB9D481197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B51D51-FEF4-4A23-9E17-F5EB9D481197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D048D641-1BA1-4602-AD37-141B434F5B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D048D641-1BA1-4602-AD37-141B434F5B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D048D641-1BA1-4602-AD37-141B434F5B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D048D641-1BA1-4602-AD37-141B434F5B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A612F07E-B529-4DDB-80AD-030B986384C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A612F07E-B529-4DDB-80AD-030B986384C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A612F07E-B529-4DDB-80AD-030B986384C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A612F07E-B529-4DDB-80AD-030B986384C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
